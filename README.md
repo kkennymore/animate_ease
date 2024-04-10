@@ -28,7 +28,7 @@ or directly use the github repo by adding
 ```
   dependencies:
     animate_ease:
-      git: https://github.com/Hitek-Financials-Ltd/animate_ease.git
+      git: https://github.com/kkennymore/animate_ease.git
 ```
 
 The github repo will always return the latest version of the package, including the beta version.
